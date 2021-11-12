@@ -6,8 +6,6 @@ Fullstack web developer<br>
 
 
 
-<div style="width:100%;height:0;padding-bottom:158%;position:relative;"><iframe src="https://giphy.com/embed/ndIq5ohg1pyfqyVOII" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/drummachinefunk-create-develop-developing-ndIq5ohg1pyfqyVOII">via GIPHY</a></p>
-
 <p align="center"><img src="https://media.giphy.com/media/ndIq5ohg1pyfqyVOII/giphy.gif" width="200" height="200"/></p>
 
 
