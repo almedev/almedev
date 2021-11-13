@@ -39,7 +39,7 @@ Welcome to my repository 👨‍💻</h1>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=almedev&layout=compact&hide=javascript" width="400">
 </p>
 <p align="center">
-<a href="https://www.linkedin.com/in/jorgealdanam/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg" target="_blank"
+<a href="https://www.linkedin.com/in/jorgealdanam/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"
 width="100" height="100" /></a>
  
  </p>
